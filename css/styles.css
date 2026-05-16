@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+
 .titolo {
     color: blueviolet;
     background-color: aquamarine;
     text-align: center;
     padding-top: 5px;
     padding-bottom: 20px;
+}
+
+.irish-grover-regular {
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
